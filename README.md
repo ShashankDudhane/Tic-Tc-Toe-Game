@@ -1,5 +1,5 @@
 # Tic-Tc-Toe-Game
-his project involves creating a simple yet interactive web-based Tic Tac Toe game where two players can compete against each other. The project focuses on building the game board, handling user interactions, and implementing game logic to determine the winner or detect a draw.
+This project involves creating a simple yet interactive web-based Tic Tac Toe game where two players can compete against each other. The project focuses on building the game board, handling user interactions, and implementing game logic to determine the winner or detect a draw.
 Key Features:
 Game Board:
 
